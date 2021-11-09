@@ -1,0 +1,8 @@
+{
+  "name": "tiny-compiler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Hujianboo/tiny-compiler.git",
+  "author": "Hujianboo <466636709@qq.com>",
+  "license": "MIT"
+}
